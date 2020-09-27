@@ -1,25 +1,28 @@
-"insects" : [
 {
-"image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0248.JPG",
-"name" : "Yellow bush dart",
-"description" : "I took 10 mins to click this picture.",
-"resolution" : "4k",
-"iso" : "2500",
-"appecture" : "30"
-},
-{
-"image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0035.JPG",
-"name" : "Appupan Thaadi",
-"description" : "It took nearly 5 minutes.",
-"resolution" : "4k",
-"iso" : "800",
-"appecture" : "1.4"
-},{
-"image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0018.JPG",
-"name" : "Mosquito",
-"description" : "I took 15 mins to click this picture.",
-"resolution" : "4k",
-"iso" : "500",
-"appecture" : "1.8"
+    "insects" : [
+        {
+        "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0248.JPG",
+        "name" : "Yellow bush dart",
+        "description" : "I took 10 mins to click this picture.",
+        "resolution" : "4k",
+        "iso" : "2500",
+        "appecture" : "30"
+        },
+        {
+        "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0035.JPG",
+        "name" : "Appupan Thaadi",
+        "description" : "It took nearly 5 minutes.",
+        "resolution" : "4k",
+        "iso" : "800",
+        "appecture" : "1.4"
+        },{
+        "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0018.JPG",
+        "name" : "Mosquito",
+        "description" : "I took 15 mins to click this picture.",
+        "resolution" : "4k",
+        "iso" : "500",
+        "appecture" : "1.8"
+        }
+        ]
+        
 }
-]
