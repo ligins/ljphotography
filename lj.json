@@ -8,7 +8,7 @@
         "iso" : "2500",
         "appecture" : "30",
             "flash" : "No flash",
-            focallength : "31mm"
+            "focallength" : "31mm"
         },
         {
         "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0035.JPG",
@@ -18,7 +18,7 @@
         "iso" : "800",
         "appecture" : "1.4",
             "flash" : "No flash",
-            focallength : "31mm"
+            "focallength" : "31mm"
         },{
         "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0018.JPG",
         "name" : "Mosquito",
@@ -27,7 +27,7 @@
         "iso" : "500",
         "appecture" : "1.8",
             "flash" : "No flash",
-            focallength : "31mm"
+            "focallength" : "31mm"
         }
         ]
         
