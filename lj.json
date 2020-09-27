@@ -6,7 +6,9 @@
         "description" : "I took 10 mins to click this picture.",
         "resolution" : "4k",
         "iso" : "2500",
-        "appecture" : "30"
+        "appecture" : "30",
+            "flash" : "No flash",
+            focallength : "31mm"
         },
         {
         "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0035.JPG",
@@ -14,14 +16,18 @@
         "description" : "It took nearly 5 minutes.",
         "resolution" : "4k",
         "iso" : "800",
-        "appecture" : "1.4"
+        "appecture" : "1.4",
+            "flash" : "No flash",
+            focallength : "31mm"
         },{
         "image" : "https://github.com/ligins/ljphotography/raw/master/1A1A0018.JPG",
         "name" : "Mosquito",
         "description" : "I took 15 mins to click this picture.",
         "resolution" : "4k",
         "iso" : "500",
-        "appecture" : "1.8"
+        "appecture" : "1.8",
+            "flash" : "No flash",
+            focallength : "31mm"
         }
         ]
         
